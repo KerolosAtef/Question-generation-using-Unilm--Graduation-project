@@ -7,3 +7,4 @@
  
  This project is forked from https://github.com/microsoft/unilm/tree/master/unilm-v1
  
+ To run and see the results you should run decode_seq2seq.py
